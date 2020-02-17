@@ -9,20 +9,20 @@
   },
   "dependencies": {
     "body-parser": "^1.18.2",
-    "dotenv": "^4.0.0",
+    "dotenv": "^8.2.0",
     "express": "^4.16.2",
     "imap": "^0.8.19",
     "node-schedule": "^1.2.5",
-    "nodemailer": "^4.4.1",
+    "nodemailer": "^6.4.2",
     "request": "^2.83.0",
     "sendmail": "^1.2.0",
-    "standard": "^10.0.3"
+    "standard": "^14.3.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-es2017": "^6.24.1",
     "babel-preset-stage-3": "^6.24.1",
-    "nodemon": "^1.13.3"
+    "nodemon": "^2.0.2"
   }
 }
